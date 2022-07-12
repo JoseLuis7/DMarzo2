@@ -1,0 +1,155 @@
+.header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: rgb(111, 111, 240);
+}
+.img-logo{
+    position: fixed;
+    width: 150px;
+    height: 79px;
+}
+.div-menu{
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.nav-menu{
+    text-align: center;
+
+}
+.links{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-decoration:none;
+    color: antiquewhite;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+.login{
+    position: absolute;
+    right: 40px;
+    text-decoration:none;
+    color: antiquewhite;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+.subtitulo1{
+    padding-bottom: 50px;
+    padding-left: 435px;
+    color: rgb(111, 111, 240)
+}
+.subtitulo2{
+    padding-bottom: 50px;
+    padding-left: 185px;
+    color: rgb(111, 111, 240)
+}
+.subtitulo3{
+    padding-bottom: 50px;
+    padding-left: 20px;
+    color: rgb(111, 111, 240)
+}
+body{
+    position:absolute;
+    top: 78px;
+    width: 100%;
+}
+.letra1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+}
+.contenedor{
+    margin: auto;
+    border-collapse: collapse;
+}
+.subtitulo-tabla{
+    text-align: center;
+    background-color: rgb(19, 20, 19);
+    color: white;
+    height: 45px;
+}
+td{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Quicksand', sans-serif;
+}
+.nombre{
+    text-align: justify;
+}
+.stock{
+    text-align: end;
+}
+.precio{
+    text-align: center;
+}
+.botones{
+    text-align: center;
+    margin-top: 30px;
+}
+#botones{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color:rgb(111, 111, 240);
+    color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+#botones:hover{
+    padding-top: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color:rgb(82, 31, 221);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    transition: 550ms;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.5);
+    cursor: pointer;
+}
+.nombre1{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.apellido{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.distrito{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.celular{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.dni{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.nombre2{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.direccion{
+    text-align: center;font-family: 'Quicksand', sans-serif;
+
+}
+.celular1{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+.correo{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
